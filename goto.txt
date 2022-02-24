@@ -1,0 +1,1 @@
+Am scris un rand in goto.txt
